@@ -16,6 +16,24 @@ A bookkeeping system for small traders that works from WhatsApp. The trader send
 
 `Flutter` `Supabase` `PostgreSQL` `TypeScript` `Gemini` `WhatsApp Cloud API`
 
+## More Projects
+
+### [FitHub](https://github.com/hashamkhan11/fit-hub): from the front desk to the front door
+
+[![FitHub](https://raw.githubusercontent.com/hashamkhan11/fit-hub/main/docs/banner.png)](https://github.com/hashamkhan11/fit-hub)
+
+A multi-tenant gym platform. Staff run the gym from a Laravel/Livewire dashboard. Members check in with a QR code and book classes in a Flutter app. An ESP32 controller opens the door from the member's phone or with a fingerprint.
+
+`Laravel` `Livewire` `Flutter` `MySQL` `ESP32` `Stripe`
+
+### [QiradSync](https://github.com/hashamkhan11/qiradsync): two partners, one ledger
+
+[![QiradSync](https://raw.githubusercontent.com/hashamkhan11/qiradsync/main/docs/banner.png)](https://github.com/hashamkhan11/qiradsync)
+
+An offline-first ledger for Mudaraba (Islamic profit-sharing) partnerships. Every phone keeps the full history as signed, hash-chained records that merge as a CRDT, so both partners always reach the same balances. The relay server only stores and forwards records; it decides nothing.
+
+`Dart` `Flutter` `Ed25519` `CRDT` `Laravel`
+
 ## How I Work
 1. Understand the problem and define the goal.
 2. Clarify requirements, constraints, and edge cases.
