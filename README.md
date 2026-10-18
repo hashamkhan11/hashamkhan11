@@ -24,13 +24,15 @@ A bookkeeping system for small traders that works from WhatsApp. The trader send
 
 A multi-tenant gym platform. Staff run the gym from a Laravel/Livewire dashboard. Members check in with a QR code and book classes in a Flutter app. An ESP32 controller opens the door from the member's phone or with a fingerprint.
 
+**Live:** [Website and dashboard](https://fithub.ranksol.net/) · [Android app on Google Play](https://play.google.com/store/apps/details?id=com.ranksol.fithub_app)
+
 `Laravel` `Livewire` `Flutter` `MySQL` `ESP32` `Stripe`
 
 ### [QiradSync](https://github.com/hashamkhan11/qiradsync): two partners, one ledger
 
 [![QiradSync](https://raw.githubusercontent.com/hashamkhan11/qiradsync/main/docs/banner.png)](https://github.com/hashamkhan11/qiradsync)
 
-An offline-first ledger for Mudaraba (Islamic profit-sharing) partnerships. Every phone keeps the full history as signed, hash-chained records that merge as a CRDT, so both partners always reach the same balances. The relay server only stores and forwards records; it decides nothing.
+**Research project, in progress.** An offline-first ledger for Mudaraba (Islamic profit-sharing) partnerships. Every phone keeps the full history as signed, hash-chained records that merge as a CRDT, so both partners always reach the same balances. The relay server only stores and forwards records; it decides nothing. I'm now evaluating it against sync, performance and security attack scenarios.
 
 `Dart` `Flutter` `Ed25519` `CRDT` `Laravel`
 
