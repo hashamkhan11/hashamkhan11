@@ -28,6 +28,16 @@ A multi-tenant gym platform. Staff run the gym from a Laravel/Livewire dashboard
 
 `Laravel` `Livewire` `Flutter` `MySQL` `ESP32` `Stripe`
 
+### [PropNest](https://github.com/hashamkhan11/propnest): find a place that feels like yours
+
+[![PropNest](https://raw.githubusercontent.com/hashamkhan11/propnest/main/docs/banner.png)](https://github.com/hashamkhan11/propnest)
+
+A real estate marketplace for buyers, agents and admins. Buyers search on a map by radius or a drawn area, compare homes and get email alerts for saved searches. Agents pay for subscriptions and featured listings through Stripe, with prorated refunds. Admins moderate listings and watch analytics. Covered by 280+ PHPUnit tests and PHPStan level 5.
+
+**Live demo:** [propnest.gencodix.com](https://propnest.gencodix.com)
+
+`Laravel` `Livewire` `Tailwind CSS` `Stripe` `Leaflet` `Docker`
+
 ### [QiradSync](https://github.com/hashamkhan11/qiradsync): two partners, one ledger
 
 [![QiradSync](https://raw.githubusercontent.com/hashamkhan11/qiradsync/main/docs/banner.png)](https://github.com/hashamkhan11/qiradsync)
