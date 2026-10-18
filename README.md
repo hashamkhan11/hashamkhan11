@@ -4,6 +4,9 @@ Software Engineer from Faisalabad, Pakistan. I design and build complete systems
 ## Latest Project
 
 ### [KhataBol](https://github.com/hashamkhan11/khatabol): speak your khata
+
+[![KhataBol](https://raw.githubusercontent.com/hashamkhan11/khatabol/main/docs/banner.png)](https://github.com/hashamkhan11/khatabol)
+
 A bookkeeping system for small traders that works from WhatsApp. The trader sends a message, an Urdu voice note or a photo of a parchi. The bot reads the entry back, and saves it only after the trader replies "Haan". A Flutter app shows balances, stock and profit, and updates live.
 
 - **Built for a real user:** my uncle runs a cloth business and never filled in forms in ledger apps, so I made the app work through WhatsApp instead.
