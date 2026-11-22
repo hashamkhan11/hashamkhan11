@@ -3,6 +3,21 @@ Software Engineer from Faisalabad, Pakistan. I design and build complete systems
 
 ## Latest Project
 
+### [RosterLoop](https://github.com/hashamkhan11/roster_loop): every parent in the loop
+
+[![RosterLoop](https://raw.githubusercontent.com/hashamkhan11/roster_loop/main/docs/banner.png)](https://github.com/hashamkhan11/roster_loop)
+
+A mobile app for youth sports teams. Coaches build the schedule, message parents and run carpool and snack sign-ups. Parents tap Going, Maybe or Out for their child, and get a push alert the moment practice is moved or cancelled. A web panel lets the league manage teams and coaches.
+
+- **One app, two roles:** the same account can coach one team and be a parent on another, so roles are stored per team.
+- **Nothing gets missed:** every change lands in an in-app inbox first, then goes out as a Firebase push. Automatic reminders go out a day before and two hours before each event.
+- **Rules on the server:** coach-only actions and private player details are checked by the API, not just hidden in the app.
+- **Tested:** 25 Laravel feature tests covering schedules, RSVPs, reminders, sign-ups and the admin panel.
+
+`Flutter` `Riverpod` `Laravel` `Sanctum` `Firebase Cloud Messaging` `SQLite`
+
+## More Projects
+
 ### [KhataBol](https://github.com/hashamkhan11/khatabol): speak your khata
 
 [![KhataBol](https://raw.githubusercontent.com/hashamkhan11/khatabol/main/docs/banner.png)](https://github.com/hashamkhan11/khatabol)
@@ -15,8 +30,6 @@ A bookkeeping system for small traders that works from WhatsApp. The trader send
 - **Tested:** database tests on in-memory Postgres (PGlite), Flutter tests and GitHub Actions CI.
 
 `Flutter` `Supabase` `PostgreSQL` `TypeScript` `Gemini` `WhatsApp Cloud API`
-
-## More Projects
 
 ### [FitHub](https://github.com/hashamkhan11/fit-hub): from the front desk to the front door
 
